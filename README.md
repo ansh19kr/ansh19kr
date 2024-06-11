@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 📫 How to reach me **anshkumar52345234@gmail.com**
+- 📫 How to reach me **ansh.kumar2819@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17F1-LRp2v0TDppZDF9CEb0Qtndt2ZmLO/view?usp=drive_link](https://drive.google.com/file/d/17F1-LRp2v0TDppZDF9CEb0Qtndt2ZmLO/view?usp=drive_link)
 
