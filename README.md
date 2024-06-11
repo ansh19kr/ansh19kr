@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ansh Kumar</h1>
 <h3 align="center">A passionate Jr Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh19kr&label=Profile%20views&color=0e75b6&style=flat" alt="ansh19kr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh19kr" alt="ansh19kr" /></a> </p>
-
 - 🔭 I’m currently Pursuing **Batchlor of computer application (BCA)**
 
 - 🌱 I’m currently learning **Data Analyst**
 
 - 📫 How to reach me **anshkumar52345234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18bOYQvunLK7dpwRYqYOTHex5ygkUu-zW/view?usp=drive_link](https://drive.google.com/file/d/18bOYQvunLK7dpwRYqYOTHex5ygkUu-zW/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17F1-LRp2v0TDppZDF9CEb0Qtndt2ZmLO/view?usp=drive_link](https://drive.google.com/file/d/17F1-LRp2v0TDppZDF9CEb0Qtndt2ZmLO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
