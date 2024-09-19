@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Kumar</h1>
-<h3 align="center">A passionate Jr Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently Pursuing **Batchlor of computer application (BCA)**
 
