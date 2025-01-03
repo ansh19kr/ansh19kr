@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing Bachelor of Computer Applications (BCA)<br><br>🌱 I’m currently learning Data Analysis<br><br>📫 How to reach me: ansh.kumar2819@gmail.com<br><br>📄 Check out my experiences: View Resume
+🔭 I’m a Bachelor of Computer Applications (BCA) Graduate<br><br>🌱 I’m currently learning Data Analysis<br><br>📫 How to reach me: ansh.kumar2819@gmail.com<br><br>📄 Check out my experiences: View Resume
 
 
 # 💻 Tech Stack:
