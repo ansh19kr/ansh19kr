@@ -27,6 +27,16 @@
   </table>
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="100%" alt="Snake animation" />
+</div>
+
+---
+
 ## Hi there! 👋
 
 I'm Ansh Kumar, an Administrator at Wipro with 4 months of experience in IT operations and support. I am currently upskilling in the cloud domain, focusing on AWS and Linux, with the goal of transitioning into cloud-focused roles.
@@ -88,3 +98,10 @@ Check back soon for my latest blog posts and articles!
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/ansh-kumar-00a8a2252/"}
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF0000,50:0F52BA,100:141321&section=footer&reversal=true" width="100%"/>
+</p>
