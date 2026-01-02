@@ -1,3 +1,18 @@
+<!-- MasterHead GIF -->
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%"/>
+</p>
+
+<!-- Top Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF0000,50:0F52BA,100:141321&section=header" width="100%"/>
+</p>
+
+<!-- Profile View Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-CodeBox&label=Profile%20views&color=10397D&style=flat" alt="Dev-CodeBox" />
+</p>
+
 ## Hi there! 👋
 
 I'm Ansh Kumar, an Administrator at Wipro with 4 months of experience in IT operations and support. I am currently upskilling in the cloud domain, focusing on AWS and Linux, with the goal of transitioning into cloud-focused roles.
