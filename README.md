@@ -13,6 +13,20 @@
   <img src="https://komarev.com/ghpvc/?username=Dev-CodeBox&label=Profile%20views&color=10397D&style=flat" alt="Dev-CodeBox" />
 </p>
 
+<!-- Typing Animation + Coding GIF in one row -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&height=70&lines=I'm+Ansh+Kumar!%F0%9F%91%8B;Python+Developer" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Hi there! 👋
 
 I'm Ansh Kumar, an Administrator at Wipro with 4 months of experience in IT operations and support. I am currently upskilling in the cloud domain, focusing on AWS and Linux, with the goal of transitioning into cloud-focused roles.
