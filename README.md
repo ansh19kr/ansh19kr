@@ -39,6 +39,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ---
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
@@ -67,6 +68,7 @@
 </div>
 
 ---
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ansh-kumar-00a8a2252/" target="_blank">
@@ -79,7 +81,6 @@
 </div>
 
 ---
-## 🌐 Connect with Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh19kr/ansh19kr/output/pacman-contribution-graph-dark.svg">
