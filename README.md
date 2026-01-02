@@ -29,10 +29,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="100%" alt="Snake animation" />
+</div>
+
 ---
 <h1 align="center">Hey 👋What's Up?</h1>
 
-###
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
@@ -60,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ansh-kumar-00a8a2252/" target="_blank">
@@ -72,15 +78,14 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-###
+---
+## 🌐 Connect with Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh19kr/ansh19kr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh19kr/ansh19kr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ansh19kr/ansh19kr/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ---
 
