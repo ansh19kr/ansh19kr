@@ -8,11 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF0000,50:0F52BA,100:141321&section=header" width="100%"/>
 </p>
 
-<!-- Profile View Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-CodeBox&label=Profile%20views&color=10397D&style=flat" alt="Dev-CodeBox" />
-</p>
-
 <!-- Typing Animation + Coding GIF in one row -->
 <div align="center">
   <table>
@@ -29,15 +24,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh19kr/ansh19kr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh19kr/ansh19kr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ansh19kr/ansh19kr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="100%" alt="Snake animation" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ansh19kr.ansh19kr&"  />
 </div>
-
----
-
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ---
 ## 💻 Tech Stack
@@ -83,7 +80,8 @@
 
 ## Hi there! 👋
 
-I'm Ansh Kumar, an Administrator at Wipro with 4 months of experience in IT operations and support. I am currently upskilling in the cloud domain, focusing on AWS and Linux, with the goal of transitioning into cloud-focused roles.
+Hi, I’m Ansh Kumar, a System Administrator at Wipro.
+Passionate about learning and building, I’m actively improving my Python skills, working with databases and cloud platforms, and moving toward backend development.
 
 I am a quick learner and motivated professional, eager to build a strong foundation in cloud technologies and grow in modern IT environments.
 
