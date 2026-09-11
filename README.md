@@ -78,7 +78,7 @@
 
 ## Hi there! 👋
 
-Hi, I’m Ansh Kumar, a System Administrator at Wipro.
+Hi, I’m Ansh Kumar, a Linux Administrator at Wipro.
 Passionate about learning and building, I’m actively improving my Python skills, working with databases and cloud platforms, and moving toward backend development.
 
 I am a quick learner and motivated professional, eager to build a strong foundation in cloud technologies and grow in modern IT environments.
